@@ -8,5 +8,7 @@
         <servlet-class>com.gugawag.pdist.servlets.UsuarioServlet</servlet-class>
         <servlet-name>MensagemServlet</servlet-name>
         <servlet-class>com.gugawag.pdist.servlets.MensagemServlet</servlet-class>
+        <servlet-name>CalculadoraServlet</servlet-name>
+        <servlet-class>com.gugawag.pdist.servlets.CalculadoraServlet</servlet-class>
     </servlet>
 </web-app>
